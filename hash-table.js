@@ -1,3 +1,5 @@
+const sha256 = require('js-sha256');
+
 // Do not change this
 class KeyValuePair {
   constructor(key, value) {
